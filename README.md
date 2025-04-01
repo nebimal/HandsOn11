@@ -1,7 +1,6 @@
 # HandsOn11
 
 ## Task 1
-
 - **File:** [BST.py](https://github.com/nebimal/HandsOn11/blob/main/BST.py)
 - **Usage:**  
   Run the script by typing:
